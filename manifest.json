@@ -1,0 +1,12 @@
+{
+    "name": "sirius-nse",
+    "version": "0.1.0",
+    "description": "NSE scripts for Sirius",
+    "scripts": {
+        "vulners": {
+            "name": "vulners",
+            "path": "scripts/vulners.nse",
+            "protocol": "*"
+        }
+    }
+}
