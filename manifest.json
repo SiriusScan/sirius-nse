@@ -7,6 +7,11 @@
             "name": "vulners",
             "path": "scripts/vulners.nse",
             "protocol": "*"
+        },
+        "smb-vuln-ms17-010.nse": {
+            "name": "smb-vuln-ms17-010",
+            "path": "scripts/smb-vuln-ms17-010.nse",
+            "protocol": "smb"
         }
     }
 }
